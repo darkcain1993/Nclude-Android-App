@@ -21,7 +21,7 @@ import com.stripe.android.view.CardInputWidget
 
 class PaymentActivity : AppCompatActivity() {
     private val mDatabase: DatabaseReference = FirebaseDatabase.getInstance().reference
-    private val stripe = Stripe(this, "pk_test_IXywX6vVqlj5XlAQ3m8YoXtH");
+    private val stripe = Stripe(this, "enter key here");
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
