@@ -1,4 +1,4 @@
-//© D'Narial Brown-Pressley All Rights Reserved.
+//© 2018 D'Narial Brown-Pressley All Rights Reserved.
 package com.example.dnarialpressley.nclude_a
 
 
@@ -16,9 +16,7 @@ import android.widget.TextView
 import io.realm.Realm
 
 
-/**
- * Created by D'Narial on 11/19/2017.
- */
+
 class ProductAdapter_A(private val productItem: List<ProductInformation>) : RecyclerView.Adapter<ProductAdapter_A.ViewHolder>() {
 
     // initiate the views that will be used inside each recycle view
