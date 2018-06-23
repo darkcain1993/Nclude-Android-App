@@ -17,9 +17,6 @@ import java.io.InputStream
 import java.io.InputStreamReader
 
 
-/**
- * Created by D'Narial on 12/2/2017.
- */
 
 class GetToken2 : AsyncTask<String, Void, String>() {
     internal var server_response: String? = null
