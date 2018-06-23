@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727118024204",
+    "firebase_url": "https://nclude-e-commerce-app.firebaseio.com",
+    "project_id": "nclude-e-commerce-app",
+    "storage_bucket": "nclude-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727118024204:android:62f612d9cc4b85a3",
+        "android_client_info": {
+          "package_name": "com.example.dnarialpressley.nclude_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727118024204-8v3igiq12et83vmdv2dbqfhrs421igic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszcQkoThmk39RRLKmje4vMbi4X1DeM2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

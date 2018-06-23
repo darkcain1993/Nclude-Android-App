@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/categories"
+        android:title="Product Categories">
+        <menu>
+            <item
+                android:id="@+id/techItem"
+                android:title="Technology"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/clothItem"
+                android:title="Clothing"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/pantItem"
+                android:title="Pants"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/shoeItem"
+                android:title="Shoes"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/feedbackPage"
+        android:title="Questions/Feedback">
+        <menu
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <item
+                android:id="@+id/contactUs"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
