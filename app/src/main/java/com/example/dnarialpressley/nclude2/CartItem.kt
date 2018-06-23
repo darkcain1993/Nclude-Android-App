@@ -1,4 +1,4 @@
-//© D'Narial Brown-Pressley All Rights Reserved.
+//© 2018 D'Narial Brown-Pressley All Rights Reserved.
 package com.example.dnarialpressley.nclude_a
 
 import io.realm.RealmObject
@@ -13,7 +13,7 @@ open class CartItem: RealmObject(){
     var name = ""
     var price = ""
     var image = 0
-    //var priceInt = 0.00
+    
 
 
 
