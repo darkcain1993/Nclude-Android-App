@@ -84,7 +84,7 @@ private fun readStream(`is`: InputStream): String {
 
 fun ChargeCard(token: String, chargeAmount: Int) {
 
-    com.stripe.Stripe.apiKey = "sk_test_g6yGEQf4El90Cki6JI24jkBm"
+    com.stripe.Stripe.apiKey = "enter key here"
     // Charge the user's card:
     val params = HashMap<String, Any>()
     params.put("amount", chargeAmount)
