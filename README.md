@@ -19,7 +19,7 @@ must be obtained by having accounts thoguh Firebase and Strip.
 
 * **Chris Sim** - *Ideas and Artwork* - [Kalixte](https://github.com/kalixte)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
@@ -28,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Life <3
+
